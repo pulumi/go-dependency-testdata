@@ -1,0 +1,2 @@
+github.com/pulumi/go-dependency-testdata/indirect-dep/v2 v2.1.0 h1:Sj9+i/tlHlTp9uP4buJ8daySIZ5UJW/IT44Q81a0HBM=
+github.com/pulumi/go-dependency-testdata/indirect-dep/v2 v2.1.0/go.mod h1:kIcnZs58bSUyAFxJPdbkJXOzWGwOcODgwictOy8aMuI=
